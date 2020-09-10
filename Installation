@@ -1,0 +1,23 @@
+1A) Python Installation
+Python is an interpreted, high-level and general-purpose programming language created by Guido van Rossum and first released in 1991.
+Major Python Releases are:
+Python 2.0      Released – Year 2000
+Python 3.0      Released – Year 2008
+For Programming installation is done covered in below steps:
+Host System: Windows 10 (64 Bit) 
+Software details: Anaconda    
+ 
+
+Step1) We will download Anaconda with Python version 3.8 from the link provided
+                              https://www.anaconda.com/products/individual#windows
+
+Step 2) Next open the installer, click “next” then select “I agree” to the licensing terms and conditions.
+Step 3) Select “Just Me “to provide user privileges in case only one person is authorised to use it.
+Step 4) Select destination folder to install and follow the below rules:
+•	Install anaconda to a directory [path without any unified characters or space].
+•	Don’t give Admin privileges unless required
+Step 5) Choose whether toad anaconda to PATH environment variable:
+Recommended option is to register since environment it does not interfere with any software pre-installed in host system.
+Step 6) Choose if to install Python as default for your system unless no multiple versions are running on the host.
+Step 7) Click Install and Next to start installing the Software.
+Step 8) Select finish once the programme is installed.
