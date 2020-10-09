@@ -1,3 +1,4 @@
+
 p=input("Enter first string:")
 q=input("Enter second string:") 
 
