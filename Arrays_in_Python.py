@@ -1,4 +1,5 @@
-import array as arr                             #1
+#input an array and append elements at last of array.
+import array as arr                             
 arr=arr.array('i',[])
 n=int(input())
 
