@@ -8,7 +8,7 @@ if is_male and is_tall:
 elif is_male and not (is_tall):
     print("you are not a male or not tall")
 elif not(is_male) and is_tall:
-    print ("ypu are not a male but tall")   
+    print ("you are not a male but tall")   
 else:
     print("you are not male and not tall ")
     
