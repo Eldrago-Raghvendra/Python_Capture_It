@@ -1,11 +1,6 @@
-
-
-  
-  
   
 #Enter a letter print if vowel or not  
-  
-  
+    
 x = input("Input a letter of the alphabet: ")
 
 if x in ('a', 'e', 'i', 'o', 'u'):
